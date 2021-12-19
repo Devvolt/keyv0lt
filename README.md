@@ -1,7 +1,7 @@
 # keyl0gger-beta
 A simple keylogger for Windows-based systems.
 
-Note: this software is only for educational purposes. I take no responsibility for the use of my software by third parties.
+**Note: this software is only for educational purposes. I take no responsibility for the use of my software by third parties.**
 
 For now it's still a **beta** and can be unstable (see issues page).
 
